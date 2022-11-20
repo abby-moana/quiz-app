@@ -1,8 +1,7 @@
 body{
     margin: 0;
-    background: url(s5.jpg);
-    outline: none;
-    box-sizing: border-box;
+    background: url(s6.jpg);
+    font-family: Courier New;
     padding: 50px;
 }
 .quiz{
@@ -32,24 +31,30 @@ body{
     grid-template-columns: 1fr 1fr;
     margin: 30px 0;
     grid-gap: 15px;
-
-}
-.quiz .option-box span{
-    margin-bottom: 10px;
-    padding: 10px;
-    border-radius: 10px;
-    background-color: #6d6d6d;
-    text-align: left;
-    font-size: 20px;
-    color: white;
-    cursor: pointer;
 }
 .btn{
     margin-bottom: 10px;
     padding: 10px;
     border-radius: 10px;
-    background-color: #1c1c1c;
+    background: #1c1c1c;
     color: white;
     cursor: pointer;
     border-color: #ffffff;
+    display: inline-block;
+    transition: all .8s;
+}
+.btn:hover{
+    background: linear-gradient(#a9a9a9, #989898, #878787);
+    color: #1c1c1c;
+    border: solid 1px #878787;
+
+}
+.container-result{
+    margin: 50px auto;
+    background-color: white;
+    max-width: 600px;
+    padding: 25px;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 70px;
 }
