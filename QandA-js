@@ -1,0 +1,71 @@
+var questions = [{
+    "question": "The darkest part of the shadow is",
+    "option1": "Umbra",
+    "option2": "Penumbra",
+    "option3": "Antumbra",
+    "option4": "None of these",
+    "answer": "1"
+},  {
+    "question": "What does DNA stands for?",
+    "option1": "Ribonucleic acid",
+    "option2": "Deoxyribonucleic acid",
+    "option3": "Folic acid",
+    "option4": "None of these",
+    "answer": "2"
+},  {
+    "question": "The concept of gravity was discovered by which famous physicist?",
+    "option1": "Galileo Galilei",
+    "option2": "Robert Boyle",
+    "option3": "Isaac Newton",
+    "option4": "Leonardo da Vinci",
+    "answer": "3"
+},  {
+    "question": "What is the function of the blood cell?",
+    "option1": "Carry messages all over the body.",
+    "option2": "To control the size of the openings.",
+    "option3": "To carry oxygen around the body.",
+    "option4": "None of these",
+    "answer": "3"
+},  {
+    "question": "You see your reflection in a mirror because:",
+    "option1": "light is absorbed",
+    "option2": "light is diffracted",
+    "option3": "light is reflected",
+    "option4": "light is refracted",
+    "answer": "3"
+},  {
+    "question": "Which of these have a positive charge and are found in the nucleus of an atom?",
+    "option1": "Neutrons",
+    "option2": "Protons",
+    "option3": "Electrons",
+    "option4": " Elements",
+    "answer": "2"
+}, {
+    "question": "One complete revolution of Earth around the sun is equal to approximately one _",
+    "option1": "Year",
+    "option2": "Month",
+    "option3": "Week",
+    "option4": "Day",
+    "answer": "1"
+}, {
+    "question": "How many bones are there in an adult human body?",
+    "option1": "36",
+    "option2": "98",
+    "option3": "206",
+    "option4": "872",
+    "answer": "3"
+},  {
+    "question": "What do Venus and Mercury have in common?",
+    "option1": "Their atmospheres are identical.",
+    "option2": "They don't have moons.",
+    "option3": "They have nothing in common.",
+    "option4": "Their surface temperatures are exactly the same.",
+    "answer": "2"
+},  {
+    "question": "Which of following is called universal solvent?",
+    "option1": "Alcohol",
+    "option2": "Sulfuric acid",
+    "option3": "Benzene",
+    "option4": "Water",
+    "answer": "4"
+}]
